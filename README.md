@@ -5,6 +5,7 @@ Name: Srinidhi.P
 Regno.: 212222040160
 
 AIM:
+
 Identifying and Writing Problem Statements
 Identify user pain points. Write 1–2 clear UX problem statements using a defined template: "[User] needs a way to [achieve goal] because [obstacle], which results in [impact]."
 
